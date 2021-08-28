@@ -7,3 +7,4 @@ def afdrukken(  sTxt ):	// druk een tekst af
 
 afdrukken ("Hello world")
 afdrukken ("Hello PyCharm")
+afdrukken ("versie 2")
