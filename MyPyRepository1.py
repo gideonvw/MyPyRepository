@@ -4,4 +4,6 @@ def afdrukken(  sTxt ):	// druk een tekst af
     // Oke nu
     print( sTxt )
 
+
 afdrukken ("Hello world")
+afdrukken ("Hello PyCharm")
