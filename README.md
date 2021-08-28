@@ -1,2 +1,9 @@
 # MyPiRepository
 # Updated lokaal
+##
+
+
+
+
+
+#yezz
