@@ -2,8 +2,8 @@
 # Updated op  github.com
 =======
 # Dit is update 2 op zaterdagochtend op de github.com
-def afdrukken(  sTxt ):	// druk een tekst af
-    // Oke nu
+def afdrukken(  sTxt ):	# druk een tekst af
+    # Oke nu
     print( sTxt )
 
 
